@@ -1,5 +1,6 @@
 # atividade-frontend-web
 atividade 1 - HTML, 2-CSS, 3-JAVASCRIPT e 4-README DOCS.
+
 Projeto ONG Esperança - Website Institucional
 
 Este repositório contém o código-fonte completo do website institucional da ONG Esperança, uma organização dedicada à preservação ambiental e à conscientização sobre a importância de cuidar da natureza. O projeto foi desenvolvido do zero (from scratch), seguindo um layout planejado no Figma e implementado com HTML5, CSS3 e JavaScript puro (Vanilla JS).
