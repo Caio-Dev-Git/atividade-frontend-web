@@ -1,4 +1,3 @@
-
 const masks = {
   "#cpf": value => value
     .replace(/\D/g, "")
